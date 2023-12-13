@@ -1,0 +1,12 @@
+Links, referencias, revisar, repasar, etc...
+
+pagina con informacion de C++:
+https://www.tutorialspoint.com/cplusplus/index.htm
+
+
+lista de reproduccion de C++ en ingles:
+https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
+
+
+lista de reproduccion ejercicios en C++ en español:
+https://www.youtube.com/watch?v=dJzLmjSJc2c&list=PLWtYZ2ejMVJlUu1rEHLC0i_oibctkl0Vh
